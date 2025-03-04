@@ -1,0 +1,4 @@
+Dependencies:
+pip install biopython
+pip install certifi
+pip install requests  # Optional
